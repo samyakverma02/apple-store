@@ -20,7 +20,7 @@ function App() {
         <h1>Mobile Store</h1>
       
         <input type="text" name="" id="" onChange={(e)=>settextinput(e.target.value)}/>
-        <h3>This is Input = {textinput}</h3>
+        <h3>This is Input dvsvbfvefve= {textinput}</h3>
           <div>
             {products.map((products) => (
               <>
